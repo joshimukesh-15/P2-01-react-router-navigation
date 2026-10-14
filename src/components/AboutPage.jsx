@@ -1,0 +1,1 @@
+export default function AboutPage() { return <section className="card"><span className="label">ABOUT</span><h2>About this application</h2><p>Each route renders a React component. React Router updates the page content while preserving the loaded application.</p></section>; }

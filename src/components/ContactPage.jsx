@@ -1,0 +1,1 @@
+export default function ContactPage() { return <section className="card"><span className="label">CONTACT</span><h2>Get in touch</h2><p>Student Help Desk<br/><a href="mailto:helpdesk@campus.example">helpdesk@campus.example</a><br/>Monday–Friday, 9:00 AM–4:00 PM</p></section>; }

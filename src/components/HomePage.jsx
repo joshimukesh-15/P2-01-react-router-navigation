@@ -1,0 +1,1 @@
+export default function HomePage() { return <section className="card"><span className="label">HOME</span><h2>Welcome to Campus Connect</h2><p>A small single-page application for practicing client-side navigation with <code>BrowserRouter</code>, <code>Route</code>, and <code>Link</code>.</p></section>; }
